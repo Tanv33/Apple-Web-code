@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.abc {
+    background-color: rgb(68, 65, 65);
+    color: rgb(175, 172, 172);
+    text-align: center;
+    text-decoration: none;
+    word-spacing: 70px;
+    padding: 7px;
+    margin: -9px;
+    line-height: 25px;
+}
+
+.abc:hover {
+    transition: 1s;
+    color: white;
+}
+
+.def {
+    text-align: center;
+    text-decoration: none;
+    font-size: medium;
+    background-color: rgb(39, 163, 204);
+    padding: 10px;
+    margin: 9px;
+    color: white;
+}
+
+.def:hover {
+    text-decoration: underline;
+}
+
+.tan {
+    border: none;
+    text-align: center;
+    font-size: medium;
+    text-decoration: none;
+    background-color: whitesmoke;
+    padding: 7px;
+    margin: -9px;
+}
+
+.text {
+    font-size: small;
+    text-align: justify;
+    color: gray;
+    width: 60%;
+}
+
+#veer {
+    text-align: justify;
+    font-size: small;
+    color: gray;
+    line-height: 20px;
+}
+
+h1 {
+    font-size: 55px;
+    text-align: center;
+    line-height: 80px;
+}
+
+#wqa {
+    text-align: center;
+    font-size: x-large;
+    margin: -35px;
+}
+
+#col {
+    text-align: center;
+    color: rgb(175, 172, 172);
+}
+
+.red {
+    text-align: center;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.red:hover {
+    text-decoration: underline;
+}
+
+.tan:hover {
+    text-decoration: underline;
+}
